@@ -3,6 +3,8 @@ description: The ParseDomain component will use a web scraper like BeautifulSoup
   name, contact information, and business description. The component will perform
   necessary pre-processing, web scraping, data extraction, and post-processing to
   present the output in a structured format.
+input-class: ParseDomainInputDict
 name: ParseDomain
+output-class: ParseDomainOutputDict
 parameters:
   timeout: '10'
