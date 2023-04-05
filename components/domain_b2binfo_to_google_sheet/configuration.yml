@@ -1,0 +1,7 @@
+description: This Yeager Component takes a domain name as input and retrieves B2B
+  information about the domain. The component then exports the retrieved data to a
+  specified Google Sheet. The input DomainNameInputModel takes a domain name string
+  as input. The output GoogleSheetOutputModel will return the URL of the Google Sheet
+  containing the B2B information.
+name: DomainB2BInfoToGoogleSheet
+parameters: {}
