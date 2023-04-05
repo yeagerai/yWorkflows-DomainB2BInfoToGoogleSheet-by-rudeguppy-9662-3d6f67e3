@@ -1,0 +1,8 @@
+description: The ParseDomain component will use a web scraper like BeautifulSoup and
+  requests to parse the given domain and extract B2B businesses information like business
+  name, contact information, and business description. The component will perform
+  necessary pre-processing, web scraping, data extraction, and post-processing to
+  present the output in a structured format.
+name: ParseDomain
+parameters:
+  timeout: '10'
